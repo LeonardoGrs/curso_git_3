@@ -27,7 +27,7 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
 ##### Imagem local
 
-![Amem](Img/amem.png)
+![Amem](img/amem.png)
 
 ###### Melhorias do projeto:
 
