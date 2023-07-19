@@ -36,3 +36,11 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 ###### Melhorias do projeto:
 
 __Melhoria 1;__ _Melhoria 2;_
+
+## Links interessantes:
+
+[Youtube](https://www.youtube.com)
+
+[https://www.beecrowd.com.br/judge/pt](https://www.beecrowd.com.br/judge/pt)
+
+Contribuidor Principal: https://github.com/LeonardoGrs
