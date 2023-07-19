@@ -29,6 +29,10 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
 ![Amem](img/amem.png)
 
+##### Imagem externa
+
+![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+
 ###### Melhorias do projeto:
 
 __Melhoria 1;__ _Melhoria 2;_
