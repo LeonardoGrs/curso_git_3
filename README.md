@@ -6,7 +6,7 @@ Vamos criar um **e-commerce**, para a *empresa Z*
 
 _Checkout, **Tela de produto**, Catálogo, Home com banner_  
 
-*Checkout, __Tela de produto__, Catálogo, Home com banner*  
+**Checkout, _Tela de produto_, Catálogo, Home com banner**  
 
 ### Teste h3
 
