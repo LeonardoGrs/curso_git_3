@@ -4,7 +4,9 @@ Vamos criar um **e-commerce**, para a *empresa Z*
 
 ## Funcionalidades:
 
-Checkout, Tela de produto, Catálogo, Home com banner
+_Checkout, **Tela de produto**, Catálogo, Home com banner_  
+
+*Checkout, __Tela de produto__, Catálogo, Home com banner*  
 
 ### Teste h3
 
@@ -20,4 +22,4 @@ Testando titulo 5
 
 ###### Melhorias do projeto:
 
-Melhoria 1; Melhoria 2;
+__Melhoria 1;__ _Melhoria 2;_
