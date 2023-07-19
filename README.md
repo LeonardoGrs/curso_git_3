@@ -16,9 +16,11 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 * PHP
 * MySQL
 
-#### Teste h4
+#### Funcionalidades a desenvolver:
 
-Testando titulo 4
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
 
 ##### Teste h5
 
