@@ -1,4 +1,7 @@
-# Eccomerce
-Este repositório é focado no curso de git e GitHub.
+# E-commerce empresa Z
 
-# Teste
+Vamos criar um e-commerce, para a empresa z
+
+## Funcionalidades:
+
+Checkout, Tela de produto, Catálogo, Home com banner
