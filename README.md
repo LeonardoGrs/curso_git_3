@@ -8,9 +8,13 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
 **Checkout, _Tela de produto_, Catálogo, Home com banner**  
 
-### Teste h3
+### Linguagens do projeto:
 
-Testando titulo 3
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
 
 #### Teste h4
 
